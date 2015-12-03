@@ -12,6 +12,8 @@
 		67E7D87E1C0FBB290074F070 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 67E7D87C1C0FBB290074F070 /* Main.storyboard */; };
 		67E7D8801C0FBB290074F070 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67E7D87F1C0FBB290074F070 /* Assets.xcassets */; };
 		67E7D8831C0FBB290074F070 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 67E7D8811C0FBB290074F070 /* LaunchScreen.storyboard */; };
+		67E7D88B1C0FBB400074F070 /* chopin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 67E7D88A1C0FBB400074F070 /* chopin.mp3 */; };
+		67E7D88D1C0FBC6B0074F070 /* Frédéric_Chopin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 67E7D88C1C0FBC6B0074F070 /* Frédéric_Chopin.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		67E7D87F1C0FBB290074F070 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		67E7D8821C0FBB290074F070 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		67E7D8841C0FBB290074F070 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		67E7D88A1C0FBB400074F070 /* chopin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = chopin.mp3; sourceTree = "<group>"; };
+		67E7D88C1C0FBC6B0074F070 /* Frédéric_Chopin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Frédéric_Chopin.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				67E7D87F1C0FBB290074F070 /* Assets.xcassets */,
 				67E7D8811C0FBB290074F070 /* LaunchScreen.storyboard */,
 				67E7D8841C0FBB290074F070 /* Info.plist */,
+				67E7D88A1C0FBB400074F070 /* chopin.mp3 */,
+				67E7D88C1C0FBC6B0074F070 /* Frédéric_Chopin.jpg */,
 			);
 			path = "Chopin Player";
 			sourceTree = "<group>";
@@ -124,6 +130,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				67E7D8831C0FBB290074F070 /* LaunchScreen.storyboard in Resources */,
+				67E7D88B1C0FBB400074F070 /* chopin.mp3 in Resources */,
+				67E7D88D1C0FBC6B0074F070 /* Frédéric_Chopin.jpg in Resources */,
 				67E7D8801C0FBB290074F070 /* Assets.xcassets in Resources */,
 				67E7D87E1C0FBB290074F070 /* Main.storyboard in Resources */,
 			);
